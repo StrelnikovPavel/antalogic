@@ -27100,6 +27100,10 @@ body.ie ._ibg img {
   .software__text {
     line-height: 160%;
   }
+
+  .wpcf7-form {
+    width: 260px !important;
+  }
 }
 
 @media (max-width: 410px) {
